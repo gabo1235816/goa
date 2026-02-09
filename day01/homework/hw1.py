@@ -1,15 +1,15 @@
-print = name 
 name = (gabo)
+print(name)
 
-print = age
 age = (12)
+print(age)
 
-print = (height)
-height = 5
+height = (5)
+print(height)
 
-print = (weight)
-weight = 43
+weight = (43)
+print(weight)
 
-print = (adress)
-adress = Gori
+adress = (gori)
+print(adress)
 
