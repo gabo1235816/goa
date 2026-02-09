@@ -9,3 +9,7 @@ height = 1.80
 weight = 43
 
 print(name)
+print(age)
+print(adress)
+print(height)
+print(weight)
